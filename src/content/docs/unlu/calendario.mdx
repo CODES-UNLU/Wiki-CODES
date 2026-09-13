@@ -1,0 +1,41 @@
+---
+title: Calendario académico
+description: Calendario académico vigente de la UNLu, con la opción de descargarlo en formato .ics para importarlo a tu app de calendario.
+---
+
+import { LinkButton, Aside } from '@astrojs/starlight/components';
+import CalendarioTabla from '../../../components/CalendarioTabla.astro';
+
+El calendario académico define las fechas de inscripción a materias y exámenes, el inicio y el
+fin de los cuatrimestres, los turnos de exámenes y los recesos. Acá lo tenés completo, y también
+podés descargarlo en formato `.ics` para importarlo a Google Calendar, Apple Calendario,
+Thunderbird o cualquier app compatible.
+
+<LinkButton
+	href={`${import.meta.env.BASE_URL}/calendario-unlu.ics`}
+	download="calendario-academico-unlu-2026.ics"
+	icon="download"
+>
+	Descargar calendario (.ics)
+</LinkButton>
+<LinkButton href="https://www.unlu.edu.ar/doc/calendario-acad.pdf" variant="secondary" icon="document">
+	Ver PDF oficial
+</LinkButton>
+<LinkButton href="https://www.unlu.edu.ar/calendario.html" variant="minimal" icon="external">
+	Calendario en el sitio de la UNLu
+</LinkButton>
+
+<Aside type="tip">
+	El archivo `.ics` se genera a partir de esta misma tabla, así que si algo cambia acá, la
+	descarga también queda actualizada.
+</Aside>
+
+## Actividades y fechas
+
+<CalendarioTabla />
+
+<Aside>
+	Las fechas que indican un mes o un período (por ejemplo "Febrero de 2026") se incluyen en el
+	`.ics` como el mes o rango completo, ya que el calendario oficial no detalla el día exacto.
+	Ante cualquier duda, consultá el [calendario oficial](https://www.unlu.edu.ar/calendario.html).
+</Aside>

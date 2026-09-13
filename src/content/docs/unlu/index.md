@@ -7,7 +7,7 @@ Acá vas a encontrar recursos generales para estudiar y moverte en la UNLu.
 
 ## Trámites y servicios
 
-- Calendario académico y fechas de inscripción.
+- [Calendario académico](calendario/) y fechas de inscripción.
 - Trámites del SIU y del campus virtual.
 - Becas, comedor y servicios para estudiantes.
 

@@ -1,0 +1,30 @@
+---
+import { eventos } from '../data/calendario';
+---
+
+<table>
+	<thead>
+		<tr>
+			<th>Actividad</th>
+			<th>Fechas</th>
+		</tr>
+	</thead>
+	<tbody>
+		{
+			eventos.map((evento) => (
+				<tr>
+					<td>
+						{evento.destacado ? <strong>{evento.actividad}</strong> : evento.actividad}
+						{evento.nota && (
+							<>
+								<br />
+								<small>{evento.nota}</small>
+							</>
+						)}
+					</td>
+					<td>{evento.fechaTexto}</td>
+				</tr>
+			))
+		}
+	</tbody>
+</table>
