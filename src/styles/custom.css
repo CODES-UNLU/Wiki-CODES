@@ -21,3 +21,14 @@
 		font-size: 1.25rem;
 	}
 }
+
+/* Hero del index: logo CODES++ más chico y centrado (solo páginas con hero). */
+html[data-has-hero] .hero-image {
+	max-width: 20rem;
+	margin-inline: auto;
+}
+
+html[data-has-hero] .hero-image img {
+	width: 100%;
+	height: auto;
+}

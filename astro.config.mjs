@@ -23,8 +23,7 @@ export default defineConfig({
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/CODES-UNLU' }],
 			plugins: [
 				lucode({
-					footerText:
-						'Wiki CODES · Centro Organizado de Estudiantes de Sistemas · UNLu',
+					footerText: `© ${new Date().getFullYear()} CODES++. Todos los derechos reservados.<br>Hecho con ❤️ por estudiantes para estudiantes`,
 				}),
 			],
 			sidebar: [
