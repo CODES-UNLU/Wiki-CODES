@@ -10,6 +10,10 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Wiki',
+			defaultLocale: 'root',
+			locales: {
+				root: { label: 'Español', lang: 'es' },
+			},
 			description:
 				'Recursos para estudiantes de la UNLu, material específico para la Licenciatura en Sistemas y cosas interesantes de informática.',
 			logo: {
