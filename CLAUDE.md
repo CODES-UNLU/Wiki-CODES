@@ -12,6 +12,16 @@ All changes to the repository must be committed using Conventional Commits writt
 
 Common types: `feat`, `fix`, `docs`, `style`, `refactor`, `perf`, `test`, `build`, `ci`, `chore`, `revert`.
 
+## Validación antes de subir
+
+Antes de enviar cualquier cambio a `origin` es obligatorio validar la compilación y confirmar que no hay errores. Correr el build:
+
+```
+pnpm build
+```
+
+No hacer push si el build falla.
+
 ## Development
 
 When starting the dev server, use background mode:
