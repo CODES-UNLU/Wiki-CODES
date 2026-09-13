@@ -64,8 +64,12 @@ html[data-has-hero] .hero-image img {
 }
 
 /* Tarjetas del index: grid alineado, centrado y responsive (1 / 2 / 4 columnas). */
-html[data-has-hero] .sl-markdown-content > h2 {
+html[data-has-hero] .sl-heading-wrapper.level-h2 {
 	margin-top: 1rem;
+	text-align: center;
+}
+
+html[data-has-hero] .sl-heading-wrapper.level-h2 h2 {
 	text-align: center;
 }
 
