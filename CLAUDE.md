@@ -1,3 +1,17 @@
+## Package manager
+
+Use **pnpm** exclusively. Never use npm, yarn, or npx; use `pnpm dlx` instead of `npx`.
+
+## Commits
+
+All changes to the repository must be committed using Conventional Commits written in Spanish.
+
+```
+<tipo>(<ámbito opcional>): <descripción en español>
+```
+
+Common types: `feat`, `fix`, `docs`, `style`, `refactor`, `perf`, `test`, `build`, `ci`, `chore`, `revert`.
+
 ## Development
 
 When starting the dev server, use background mode:

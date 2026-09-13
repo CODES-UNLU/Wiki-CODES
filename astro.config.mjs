@@ -4,6 +4,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://CODES-UNLU.github.io',
+	base: '/Wiki-CODES',
 	integrations: [
 		starlight({
 			title: 'My Docs',
