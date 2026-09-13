@@ -32,3 +32,33 @@ html[data-has-hero] .hero-image img {
 	width: 100%;
 	height: auto;
 }
+
+/* Colores de marca CODES++ (teal #39c0c3) sobre el tema Lucode. */
+:root {
+	--primary: #39c0c3;
+	--primary-foreground: #06282a;
+	--ring: #39c0c3;
+}
+
+:root[data-theme='dark'] {
+	--accent: color-mix(in oklab, #39c0c3 22%, transparent);
+	--accent-foreground: #93e9eb;
+	--sl-color-text-accent: #6fdcdf;
+	--sl-color-accent: #39c0c3;
+	--sl-color-accent-low: color-mix(in oklab, #39c0c3 22%, transparent);
+	--sl-color-accent-high: #93e9eb;
+}
+
+:root[data-theme='light'] {
+	--accent: color-mix(in oklab, #39c0c3 16%, transparent);
+	--accent-foreground: #1e6b6e;
+	--sl-color-text-accent: #1e6b6e;
+	--sl-color-accent: #2a8a8d;
+	--sl-color-accent-low: color-mix(in oklab, #39c0c3 16%, transparent);
+	--sl-color-accent-high: #1e6b6e;
+}
+
+/* Enlaces del contenido con el color de la marca. */
+.sl-markdown-content a:not([class]) {
+	color: var(--sl-color-text-accent);
+}
