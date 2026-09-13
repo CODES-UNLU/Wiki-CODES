@@ -20,7 +20,11 @@ export default defineConfig({
 			},
 			favicon: '/favicon.png',
 			customCss: ['./src/styles/custom.css'],
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/CODES-UNLU' }],
+			social: [
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/CODES-UNLU' },
+				{ icon: 'discord', label: 'Discord', href: 'https://discord.gg/2hbjvN7KDH' },
+				{ icon: 'link', label: 'Sitio del centro', href: 'https://www.codesunlu.tech/' },
+			],
 			plugins: [
 				lucode({
 					footerText: `© ${new Date().getFullYear()} CODES++. Todos los derechos reservados.<br>Hecho con ❤️ por estudiantes para estudiantes`,
