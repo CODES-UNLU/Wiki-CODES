@@ -9,16 +9,17 @@ export default defineConfig({
 	base: '/Wiki-CODES',
 	integrations: [
 		starlight({
-			title: 'Wiki CODES',
+			title: 'Wiki',
 			description:
 				'Recursos para estudiantes de la UNLu, material específico para la Licenciatura en Sistemas y cosas interesantes de informática.',
 			logo: {
-				light: './src/assets/logo-light.png',
-				dark: './src/assets/logo-dark.png',
+				light: './src/assets/logo-nav-light.png',
+				dark: './src/assets/logo-nav-dark.png',
 				alt: 'CODES++',
 				replacesTitle: false,
 			},
 			favicon: '/favicon.png',
+			customCss: ['./src/styles/custom.css'],
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/CODES-UNLU' }],
 			plugins: [
 				lucode({

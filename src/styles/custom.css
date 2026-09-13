@@ -1,0 +1,23 @@
+/* Navbar: Lucode limita el logo a 32x32px y lo deforma. Lo dejamos a 2rem de alto
+   respetando su proporción, para que el CODES++ se vea nítido. */
+.site-title .logo {
+	max-width: none;
+	max-height: 2rem;
+	width: auto;
+	height: auto;
+}
+
+.site-title {
+	gap: 0.625rem;
+}
+
+.site-title .title-text {
+	font-size: 1.125rem;
+	letter-spacing: 0.02em;
+}
+
+@media (min-width: 1024px) {
+	.site-title .title-text {
+		font-size: 1.25rem;
+	}
+}
