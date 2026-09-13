@@ -62,3 +62,32 @@ html[data-has-hero] .hero-image img {
 .sl-markdown-content a:not([class]) {
 	color: var(--sl-color-text-accent);
 }
+
+/* Tarjetas del index: grid alineado, centrado y responsive (1 / 2 / 4 columnas). */
+html[data-has-hero] .sl-markdown-content > h2 {
+	margin-top: 1rem;
+	text-align: center;
+}
+
+html[data-has-hero] .card-grid {
+	grid-template-columns: 1fr;
+	gap: 1.25rem;
+	max-width: 72rem;
+	margin-inline: auto;
+}
+
+@media (min-width: 640px) {
+	html[data-has-hero] .card-grid {
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
+}
+
+@media (min-width: 1024px) {
+	html[data-has-hero] .card-grid {
+		grid-template-columns: repeat(4, minmax(0, 1fr));
+	}
+}
+
+html[data-has-hero] .card-grid .card {
+	height: 100%;
+}
