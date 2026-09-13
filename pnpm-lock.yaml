@@ -14,6 +14,9 @@ importers:
       astro:
         specifier: ^7.2.10
         version: 7.3.2(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.3)(@types/node@24.13.4)
+      lucode-starlight:
+        specifier: ^1.0.0
+        version: 1.0.0(@astrojs/starlight@0.42.0(astro@7.3.2(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.3)(@types/node@24.13.4)))
       sharp:
         specifier: ^0.35.3
         version: 0.35.4(@types/node@24.13.4)
@@ -1200,11 +1203,21 @@ packages:
     resolution: {integrity: sha512-4pfM1Ff0x50o0tQwb5ucw/RzNyD0/YJME6IVcStalZuMWxdt3sR3huStTtxz4PUmvZfRguvDejasvQ2kifR11g==}
     engines: {node: 20 || >=22}
 
+  lucode-starlight@1.0.0:
+    resolution: {integrity: sha512-VOWIUFZnbfdXm45MbjnbJ79KlKqcNr66ADpb67meesw6lUZOKDjpkzF8Gb4oZE8gY8UhS1d2qRzDN7KBRqzmIA==}
+    peerDependencies:
+      '@astrojs/starlight': '>=0.41.4'
+
   magic-string@1.3.1:
     resolution: {integrity: sha512-rm91zr2Ou+XueDTohjQQjdQEcYM6zVi8KVUCG8Ec3vHwUEKrhSdCNyfuIywkA6hcCAteIn0ZOtAHA6eGpiX+Pg==}
 
   magicast@0.5.5:
     resolution: {integrity: sha512-UicdXN8zQ3JHlxVq+28afMXPr1z7WNY6+7EJnzTdQWkTAlMLF5fNCCKxJHBQwGaNGR11581EiQmQzx73+MvszA==}
+
+  marked@18.0.12:
+    resolution: {integrity: sha512-LEm4ga2YeI2T3GVHj9b0BaDPPk93LLTHMFeMyQbNIzPxc8vCI0y/scy0ZA6z6lXKyT9j9Nhl/OC6ZYKYGuFScA==}
+    engines: {node: '>= 20'}
+    hasBin: true
 
   mdast-util-directive@3.1.0:
     resolution: {integrity: sha512-I3fNFt+DHmpWCYAT7quoM6lHf9wuqtI+oCOfvILnoicNIqjh5E3dEJWiXuYME2gNe8vl1iMQwyUHa7bgFmak6Q==}
@@ -2809,6 +2822,12 @@ snapshots:
 
   lru-cache@11.5.2: {}
 
+  lucode-starlight@1.0.0(@astrojs/starlight@0.42.0(astro@7.3.2(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.3)(@types/node@24.13.4))):
+    dependencies:
+      '@astrojs/starlight': 0.42.0(astro@7.3.2(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.3)(@types/node@24.13.4))
+      '@pagefind/default-ui': 1.5.2
+      marked: 18.0.12
+
   magic-string@1.3.1:
     dependencies:
       '@jridgewell/sourcemap-codec': 1.6.0
@@ -2818,6 +2837,8 @@ snapshots:
       '@babel/parser': 7.29.8
       '@babel/types': 7.29.8
       source-map-js: 1.2.1
+
+  marked@18.0.12: {}
 
   mdast-util-directive@3.1.0:
     dependencies:

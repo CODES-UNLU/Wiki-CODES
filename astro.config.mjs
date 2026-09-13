@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import lucode from 'lucode-starlight';
 
 // https://astro.build/config
 export default defineConfig({
@@ -19,6 +20,12 @@ export default defineConfig({
 			},
 			favicon: '/favicon.png',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/CODES-UNLU' }],
+			plugins: [
+				lucode({
+					footerText:
+						'Wiki CODES · Centro Organizado de Estudiantes de Sistemas · UNLu',
+				}),
+			],
 			sidebar: [
 				{
 					label: 'Universidad (UNLu)',
