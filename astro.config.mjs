@@ -8,19 +8,29 @@ export default defineConfig({
 	base: '/Wiki-CODES',
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: 'Wiki CODES',
+			description:
+				'Recursos para estudiantes de la UNLu, material específico para la Licenciatura en Sistemas y cosas interesantes de informática.',
+			logo: {
+				light: './src/assets/logo-light.png',
+				dark: './src/assets/logo-dark.png',
+				alt: 'CODES++',
+				replacesTitle: false,
+			},
+			favicon: '/favicon.png',
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/CODES-UNLU' }],
 			sidebar: [
 				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
+					label: 'Universidad (UNLu)',
+					items: [{ autogenerate: { directory: 'unlu' } }],
 				},
 				{
-					label: 'Reference',
-					items: [{ autogenerate: { directory: 'reference' } }],
+					label: 'Licenciatura en Sistemas',
+					items: [{ autogenerate: { directory: 'sistemas' } }],
+				},
+				{
+					label: 'Informática',
+					items: [{ autogenerate: { directory: 'informatica' } }],
 				},
 			],
 		}),
