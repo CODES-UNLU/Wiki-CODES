@@ -9,6 +9,7 @@ Acá reunimos becas, programas y beneficios disponibles para estudiantes de la U
 
 - [Becas estudiantiles](becas/): becas internas y externas, con las guías del sistema.
 - [Becas Progresar](progresar/): beca nacional de nivel superior, con pocos requisitos.
+- [Boleto Estudiantil Universitario](boleto-estudiantil/): beneficio provincial de transporte (Boleto Provincial) para estudiantes de la UNLu.
 
 :::note
 Esta sección está en construcción. Si conocés un beneficio que falte, ¡es bienvenido!
