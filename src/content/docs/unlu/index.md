@@ -21,6 +21,14 @@ Acá vas a encontrar recursos generales para estudiar y moverte en la UNLu.
 - Modelos de parciales y finales.
 - Enlaces a bibliografía y recursos abiertos.
 
+### Exámenes y parciales de la UNLu
+
+- [Altillo](https://www.altillo.com/examenes/unlu/index.asp): exámenes (parciales y finales) subidos por estudiantes de la UNLu, de todas las carreras. El sitio es viejito y se ve feo, pero tiene bastante material.
+
+### Materiales y apuntes en general
+
+- [Studocu (UNLu)](https://www.studocu.com/es-ar/institution/universidad-nacional-de-lujan/899): apuntes, resúmenes, parciales y trabajos prácticos cargados por estudiantes de todas las carreras de la UNLu.
+
 :::note
 Esta sección está en construcción. Si tenés material para sumar, ¡es bienvenido!
 :::
