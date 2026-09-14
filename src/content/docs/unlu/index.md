@@ -8,6 +8,9 @@ Acá vas a encontrar recursos generales para estudiar y moverte en la UNLu.
 ## Trámites y servicios
 
 - [Calendario académico](calendario/) y fechas de inscripción.
+- [Bibliotecas y catálogo](bibliotecas/): buscá libros y material físico de las sedes.
+- [Libros digitales (e-libro)](libros-digitales/): +100.000 títulos en línea (con acceso a pedir).
+- [Repositorio institucional (REDIUNLu)](rediunlu/): tesis, artículos y producción académica en abierto.
 - [Empleo y pasantías](empleo-y-pasantias/): SUEP, Universia y otras bolsas de trabajo.
 - Trámites del SIU y del campus virtual.
 - Becas, comedor y servicios para estudiantes.
