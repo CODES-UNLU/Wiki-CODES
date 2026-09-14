@@ -13,7 +13,7 @@ Acá reunimos becas, programas y beneficios disponibles para estudiantes de la U
 
 ## Herramientas
 
-- [Gemini Pro gratis](gemini-student/): plan AI Pro de Google gratuito para estudiantes, usando tu Gmail y el certificado de alumno regular.
+- [Google AI Plus gratis](gemini-student/): un año de Google AI Plus (con Gemini avanzado y 400 GB) gratuito para estudiantes, usando tu Gmail y el certificado de alumno regular.
 
 :::note
 Esta sección está en construcción. Si conocés un beneficio que falte, ¡es bienvenido!
