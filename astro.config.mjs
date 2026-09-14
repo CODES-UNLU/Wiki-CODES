@@ -47,6 +47,10 @@ export default defineConfig({
 					label: 'Informática',
 					items: [{ autogenerate: { directory: 'informatica' } }],
 				},
+				{
+					label: 'Beneficios educativos',
+					items: [{ autogenerate: { directory: 'beneficios' } }],
+				},
 			],
 		}),
 	],
