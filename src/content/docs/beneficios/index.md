@@ -8,6 +8,7 @@ Acá reunimos becas, programas y beneficios disponibles para estudiantes de la U
 ## Programas
 
 - [Becas estudiantiles](becas/): becas internas y externas, con las guías del sistema.
+- [Becas Manuel Belgrano](manuel-belgrano/): beca nacional para carreras estratégicas de la UNLu, como Lic. en Sistemas de Información.
 - [Becas Progresar](progresar/): beca nacional de nivel superior, con pocos requisitos.
 - [Boleto Estudiantil Universitario](boleto-estudiantil/): beneficio provincial de transporte (Boleto Provincial) para estudiantes de la UNLu.
 
