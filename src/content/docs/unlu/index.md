@@ -13,7 +13,7 @@ Acá vas a encontrar recursos generales para estudiar y moverte en la UNLu.
 - [Repositorio institucional (REDIUNLu)](rediunlu/): tesis, artículos y producción académica en abierto.
 - [Empleo y pasantías](empleo-y-pasantias/): SUEP, Universia y otras bolsas de trabajo.
 - Trámites del SIU y del campus virtual.
-- Becas, comedor y servicios para estudiantes.
+- [Beneficios y becas para estudiantes](../beneficios/): becas estudiantiles, Progresar y Boleto Estudiantil.
 
 ## Material de estudio
 
