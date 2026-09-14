@@ -22,6 +22,7 @@ También está el [simulador del CIDETIC](https://serv.cidetic.unlu.edu.ar/simul
 
 ## Material por materia
 
+- [Lenguajes de programación](lenguajes/): qué lenguajes se cursan y en qué materias (17.14).
 - Apuntes, teóricas y prácticas.
 - Guías de trabajos prácticos.
 - Enlaces a herramientas y entornos usados en clase.
