@@ -14,6 +14,7 @@ Acá reunimos becas, programas y beneficios disponibles para estudiantes de la U
 
 ## Herramientas
 
+- [GitHub Student Developer Pack](github-students/): GitHub Copilot y otras herramientas de desarrollo gratis para estudiantes, subiendo el certificado de alumno regular.
 - [Google AI Plus gratis](gemini-student/): un año de Google AI Plus (con Gemini avanzado y 400 GB) gratuito para estudiantes, usando tu Gmail y el certificado de alumno regular.
 
 :::note
