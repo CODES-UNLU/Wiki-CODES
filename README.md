@@ -107,7 +107,6 @@ para todas las personas.
 
 - 🌐 Web del centro: [codesunlu.tech](https://www.codesunlu.tech/)
 - 💬 Discord: [discord.gg/2hbjvN7KDH](https://discord.gg/2hbjvN7KDH)
-- 🐙 GitHub: [CODES-UNLU](https://github.com/CODES-UNLU)
 
 ## 📄 Licencia
 
