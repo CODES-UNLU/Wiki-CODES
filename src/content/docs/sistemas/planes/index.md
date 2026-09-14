@@ -41,7 +41,7 @@ Antes de pedir el pasaje revisá con la coordinación cómo se equivalencian las
 
 ## Links útiles
 
-- [Simulador de avance de carrera](https://mi-avance-academico.vercel.app): incluye los planes 17.13 y 17.14 y simula el traspaso de plan con sus equivalencias. Hecho por una estudiante.
+- [Simulador de avance de carrera](https://mi-avance-academico.vercel.app) de **Priscila Redondo** ([repo](https://github.com/PrisRedondo29/simulador-correlativas)): incluye los planes 17.13 y 17.14 y simula el traspaso de plan con sus equivalencias.
 - [Simulador del CIDETIC](https://serv.cidetic.unlu.edu.ar/simulador-carrera/?carrera=17&plan=17.13) (solo 17.13, desactualizado)
 - [Programas de las actividades académicas](http://www.certificaciones.unlu.edu.ar/?q=node/43)
 - [Reglamento de Tesina de Grado](https://resoluciones.unlu.edu.ar/documento.frame.php?cod=80849)
