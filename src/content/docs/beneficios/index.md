@@ -11,6 +11,10 @@ Acá reunimos becas, programas y beneficios disponibles para estudiantes de la U
 - [Becas Progresar](progresar/): beca nacional de nivel superior, con pocos requisitos.
 - [Boleto Estudiantil Universitario](boleto-estudiantil/): beneficio provincial de transporte (Boleto Provincial) para estudiantes de la UNLu.
 
+## Herramientas
+
+- [Gemini Pro gratis](gemini-student/): plan AI Pro de Google gratuito para estudiantes, usando tu Gmail y el certificado de alumno regular.
+
 :::note
 Esta sección está en construcción. Si conocés un beneficio que falte, ¡es bienvenido!
 :::
