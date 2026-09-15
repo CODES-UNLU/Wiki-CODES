@@ -9,7 +9,7 @@ Si vas a gastar, esto es lo que recomendamos:
 
 ## opencode Go (USD 10) — preferido
 
-Si vas a poner plata en agentes, **preferible gastar acá**: por **USD 10** el [opencode Go](../opencode/) da acceso a bastante IA y a los **modelos chinos nuevos**, es **open source**, se paga menos que cualquier alternativa seria y encima es el que más rinde por peso. Y si te suscribís con el [enlace de referido](../opencode/#enlace-de-referido), **te llevás USD 5 más de uso de IA** (créditos para consumir dentro de opencode, no plata).
+Si vas a poner plata en agentes, **preferible gastar acá**: por **USD 10** el [opencode Go](../opencode/) da acceso a bastante IA y a los **modelos chinos nuevos**, es **open source**, se paga menos que cualquier alternativa seria y encima es el que más rinde por peso. Y si te suscribís con el [enlace de referido](../opencode/#enlace-de-referido), **te suma USD 5 de crédito al uso de modelos**: no es un descuento en el precio ni plata, es crédito que se suma a tus límites de uso.
 
 :::tip
 Recordá activar los **modelos alojados en China** en la pestaña de Go: vienen desactivados por defecto.
