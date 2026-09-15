@@ -13,7 +13,8 @@ Acá vas a encontrar recursos generales para estudiar y moverte en la UNLu.
 - [Libros digitales (e-libro)](libros-digitales/): +100.000 títulos en línea (con acceso a pedir).
 - [Repositorio institucional (REDIUNLu)](rediunlu/): tesis, artículos y producción académica en abierto.
 - [Empleo y pasantías](empleo-y-pasantias/): SUEP, Universia y otras bolsas de trabajo.
-- Trámites del SIU y del campus virtual.
+- [Servicios Académicos Web (SAWEB)](https://saweb.unlu.edu.ar/academica/estudiante-index.php): inscripción a cursadas y finales, historia académica y certificados.
+- [Campus Virtual](https://moodle.unlu.edu.ar): aulas virtuales de las materias.
 - [Beneficios y becas para estudiantes](../beneficios/): becas estudiantiles, Progresar y Boleto Estudiantil.
 
 ## Material de estudio
