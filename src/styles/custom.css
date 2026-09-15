@@ -22,15 +22,61 @@
 	}
 }
 
-/* Hero del index: logo CODES++ más chico y centrado (solo páginas con hero). */
+/* Hero del index: logo adaptativo y centrado con espaciados proporcionales */
+html[data-has-hero] .hero {
+	padding-block: clamp(2rem, 5vw, 4.5rem);
+	gap: clamp(1.25rem, 3.5vw, 2.5rem);
+}
+
 html[data-has-hero] .hero-image {
-	max-width: 20rem;
+	max-width: min(20rem, 78vw);
 	margin-inline: auto;
 }
 
 html[data-has-hero] .hero-image img {
 	width: 100%;
 	height: auto;
+}
+
+html[data-has-hero] .hero-title-container h1 {
+	font-size: clamp(2rem, 6vw, 3rem);
+}
+
+html[data-has-hero] .hero-content-container .tagline {
+	font-size: clamp(1rem, 2.2vw, 1.125rem);
+	padding-inline: 1rem;
+	max-width: 48rem;
+	margin-inline: auto;
+}
+
+/* Botones de acción del Hero: responsivos sin desbordamiento horizontal */
+html[data-has-hero] .hero-content-container .actions {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	gap: 0.75rem;
+	width: 100%;
+	max-width: 48rem;
+	margin-inline: auto;
+	padding-top: 0.5rem;
+	padding-inline: 1rem;
+	box-sizing: border-box;
+}
+
+@media (max-width: 639px) {
+	html[data-has-hero] .hero-content-container .actions {
+		flex-direction: column;
+		width: 100%;
+		padding-inline: 1.5rem;
+	}
+
+	html[data-has-hero] .hero-content-container .actions .link-button {
+		width: 100%;
+		justify-content: center;
+		height: 2.625rem;
+		font-size: 0.9375rem;
+	}
 }
 
 /* Colores de marca CODES++ (teal #39c0c3) sobre el tema Lucode. */
@@ -63,35 +109,82 @@ html[data-has-hero] .hero-image img {
 	color: var(--sl-color-text-accent);
 }
 
-/* Tarjetas del index: grid alineado, centrado y responsive (1 / 2 / 4 columnas). */
+/* Contenedor de contenido en el index (splash): márgenes seguros en móvil */
+html[data-has-hero] .markdown-wrapper {
+	width: 100%;
+	padding-inline: clamp(1rem, 4vw, 2.5rem);
+	padding-bottom: clamp(2.5rem, 6vw, 4.5rem);
+	box-sizing: border-box;
+}
+
+html[data-has-hero] .sl-markdown-content {
+	max-width: 72rem;
+	margin-inline: auto;
+}
+
+/* Título de sección en el index */
 html[data-has-hero] .sl-heading-wrapper.level-h2 {
 	margin-top: 1rem;
+	margin-bottom: 1.5rem;
 	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 html[data-has-hero] .sl-heading-wrapper.level-h2 h2 {
 	text-align: center;
+	padding-top: 0;
+	margin-top: 0;
+	font-size: clamp(1.5rem, 4vw, 2rem);
 }
 
+/* Grilla de tarjetas del index: simétrica y totalmente responsiva */
 html[data-has-hero] .card-grid {
 	grid-template-columns: 1fr;
 	gap: 1.25rem;
 	max-width: 72rem;
 	margin-inline: auto;
+	padding: 0;
 }
 
-@media (min-width: 640px) {
+/* Tablet (2 columnas con la 5ta tarjeta centrada) */
+@media (min-width: 640px) and (max-width: 1023px) {
 	html[data-has-hero] .card-grid {
 		grid-template-columns: repeat(2, minmax(0, 1fr));
 	}
+
+	html[data-has-hero] .card-grid .card:last-child {
+		grid-column: span 2;
+		max-width: 36rem;
+		margin-inline: auto;
+		width: 100%;
+	}
 }
 
+/* Desktop (6 columnas: 3 arriba y 2 abajo para un equilibrio perfecto de 5 tarjetas) */
 @media (min-width: 1024px) {
 	html[data-has-hero] .card-grid {
-		grid-template-columns: repeat(4, minmax(0, 1fr));
+		grid-template-columns: repeat(6, minmax(0, 1fr));
+	}
+
+	html[data-has-hero] .card-grid .card:nth-child(1),
+	html[data-has-hero] .card-grid .card:nth-child(2),
+	html[data-has-hero] .card-grid .card:nth-child(3) {
+		grid-column: span 2;
+	}
+
+	html[data-has-hero] .card-grid .card:nth-child(4),
+	html[data-has-hero] .card-grid .card:nth-child(5) {
+		grid-column: span 3;
 	}
 }
 
 html[data-has-hero] .card-grid .card {
 	height: 100%;
+	transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+html[data-has-hero] .card-grid .card:hover {
+	transform: translateY(-2px);
 }
