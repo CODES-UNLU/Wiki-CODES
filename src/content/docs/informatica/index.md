@@ -7,6 +7,7 @@ Un espacio para compartir cosas interesantes de informática y sistemas.
 
 ## Herramientas
 
+- [Suites de oficina](oficina/): [LibreOffice](https://es.libreoffice.org/) y [WPS Office](https://es.wps.com/) gratis, y Microsoft 365 si querés Office por suscripción.
 - Editores, terminales y entornos de desarrollo.
 - Control de versiones con Git y GitHub.
 - Utilidades para el día a día.
