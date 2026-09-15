@@ -25,7 +25,7 @@ También está el [simulador del CIDETIC](https://serv.cidetic.unlu.edu.ar/simul
 - [Lenguajes de programación](lenguajes/): qué lenguajes se cursan y en qué materias (17.14).
 - [Editor de código](editor/): [Geany](https://www.geany.org/), el editor que usamos en Introducción a la Programación y Programación Estructurada.
 - [Editores recomendados](editores-recomendados/): [Zed](https://zed.dev/), [Visual Studio Code](https://code.visualstudio.com/) y [VSCodium](https://vscodium.com/), más cómodos, armados con perfil sin IA para estudiar.
-- [Agentes de código](agentes/): Antigravity 2.0, Copilot app y opencode gratis para estudiantes, más los de pago (opencode Go, Claude Code, Cursor Pro).
+- [Agentes de código](agentes/): Antigravity 2.0 y Copilot app gratis para estudiantes, opencode (con modelos de uso gratuito, sin beneficio estudiantil) y los de pago (opencode Go, Claude Code, Cursor Pro).
 - Apuntes, teóricas y prácticas.
 - Guías de trabajos prácticos.
 - Enlaces a herramientas y entornos usados en clase.

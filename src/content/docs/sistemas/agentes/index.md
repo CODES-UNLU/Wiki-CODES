@@ -9,7 +9,7 @@ Después de los [editores recomendados](../editores-recomendados/), el siguiente
 
 - [Antigravity 2.0](antigravity/): la app de escritorio de Google para orquestar agentes. **Gratis para estudiantes** con el plan Google AI Plus.
 - [GitHub Copilot app](github-copilot/): la app de escritorio de GitHub para desarrollo con agentes. No recomendamos pagarla: usá lo que regala el GitHub Student Pack.
-- [opencode](opencode/): agente open source de terminal, con **modelos gratuitos** y acceso a los modelos chinos nuevos.
+- [opencode](opencode/): agente open source de terminal, **gratis en general** con modelos de uso gratuito y acceso a los modelos chinos nuevos.
 - [Cursor](cursor/): otro editor de código, con el agente adentro del IDE. No tiene beneficio estudiantil, pero el plan gratuito sirve para probarlo.
 
 ## De pago (solo si vas a gastar plata)

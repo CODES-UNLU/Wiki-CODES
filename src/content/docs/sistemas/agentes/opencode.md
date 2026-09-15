@@ -1,6 +1,6 @@
 ---
 title: opencode
-description: opencode, agente open source de terminal con modelos gratuitos, pago barato y acceso a los modelos chinos nuevos.
+description: opencode, agente open source de terminal, gratis en general, con modelos de uso gratuito, pago barato y acceso a los modelos chinos nuevos.
 ---
 
 [opencode](https://opencode.ai/es) es el agente que **ama** el que escribió esta página: es **open source**, corre en la terminal (TUI) y tiene **modelos gratuitos** para arrancar. Lo mejor es que el pago por IA es **bastante poco**, y encima te da acceso a los **modelos chinos nuevos**: a medida que salen, los habilita y les sube las cuotas de uso para que los puedas probar. Es impresionante.
@@ -12,6 +12,10 @@ Si no querés pagar nada:
 1. Iniciá sesión en la página de [opencode](https://opencode.ai/es) y abrí la pestaña **Zen**.
 2. **Desactivá todos los modelos** desde ahí, **antes** de pegar el API key en el cliente.
 3. Así quedás limitado solo a los **modelos de uso gratuito**, sin sorpresas de consumo.
+
+:::note
+Ojo: opencode es **gratis en general**, no por ser estudiante. No tiene beneficio estudiantil ni falta que le hace: el agente es open source y los modelos de uso gratuito los tiene cualquiera. Lo que sí podés conseguir como estudiante es lo de [Antigravity](../antigravity/) y la [GitHub Copilot app](../github-copilot/).
+:::
 
 ## opencode Go (USD 10)
 
