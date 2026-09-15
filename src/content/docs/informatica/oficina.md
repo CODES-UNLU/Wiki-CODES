@@ -22,9 +22,13 @@ Para escribir documentos, planillas y presentaciones no hace falta pagar. Estas 
 - Tiene versión para Windows, Linux, macOS, Android y iOS.
 - La versión gratis incluye publicidad y funciones de IA que se pagan aparte; se puede usar sin problema.
 
-## Microsoft 365 (pago)
+## Microsoft 365 (pago, con descuento de estudiante)
 
-Si de verdad querés el Office de Microsoft, la opción es la [suscripción **Microsoft 365** para estudiantes](https://www.microsoft.com/es-ar/microsoft-365/college-student-pricing). Es paga y funciona **por suscripción** (mensual o anual, con precio especial de estudiante): Word, Excel, PowerPoint y Outlook completos, 1 TB de OneDrive y actualizaciones mientras la pagues.
+Si de verdad querés el Office de Microsoft, hay una [página con **descuento para estudiantes**](https://www.microsoft.com/es-ar/microsoft-365/college-student-pricing): es el precio especial de Microsoft 365 para quienes acreditan ser estudiantes, más barato que el plan común. Igual es **pago** y funciona **por suscripción** (mensual o anual): Word, Excel, PowerPoint y Outlook completos, 1 TB de OneDrive y actualizaciones mientras la pagues.
+
+:::note
+Para pagar el precio de estudiante hay que **verificar la condición de estudiante** (correo educativo o documentación). Si el trámite no sale con la UNLu, a veces piden el **certificado de alumno regular**, el mismo que usás para el [GitHub Student Pack](/unlu/beneficios/github-students/) y el [Google AI Plus](/unlu/beneficios/gemini-student/).
+:::
 
 :::caution
 Al ser una suscripción, **se renueva sola** con el medio de pago que registres. Si no querés pagarla de nuevo, cancelala antes del vencimiento; y si algún día no la usás más, no la dejes activa "por las dudas". Para los apuntes y trabajos de la facu, con las gratuitas alcanza.
