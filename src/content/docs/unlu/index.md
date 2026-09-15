@@ -15,6 +15,7 @@ Acá vas a encontrar recursos generales para estudiar y moverte en la UNLu.
 - [Empleo y pasantías](empleo-y-pasantias/): SUEP, Universia y otras bolsas de trabajo.
 - [Servicios Académicos Web (SAWEB)](https://saweb.unlu.edu.ar/academica/estudiante-index.php): inscripción a cursadas y finales, historia académica y certificados.
 - [Accesibilidad y discapacidad](accesibilidad/): apoyos, adecuaciones y tutorías para estudiar y trabajar.
+- [Deportes](deportes/): actividades y contactos por sede.
 - [Campus Virtual](https://moodle.unlu.edu.ar): aulas virtuales de las materias.
 - [Beneficios y becas para estudiantes](../beneficios/): becas estudiantiles, Progresar y Boleto Estudiantil.
 

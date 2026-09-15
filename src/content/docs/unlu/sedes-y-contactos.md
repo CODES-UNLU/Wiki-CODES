@@ -104,7 +104,7 @@ Bienestar Universitario** concentran los servicios de acompañamiento al estudia
 | SUEP (Empleos y Pasantías) | Empleo y pasantías | 1787 / 1516 | [empleos.unlu.edu.ar](https://empleos.unlu.edu.ar) |
 | Salud y Calidad de Vida | Accesibilidad, enfermería y prevención | 1547 / 1700 | [dptosalud.unlu.edu.ar](https://www.dptosalud.unlu.edu.ar) |
 | Orientación Vocacional | Orientación y vocación | 1557 | [sov.unlu.edu.ar](https://www.sov.unlu.edu.ar) |
-| Deportes | Actividades deportivas | — | [deportes.unlu.edu.ar](https://www.deportes.unlu.edu.ar) |
+| Deportes | Actividades deportivas ([ver página](../deportes/)) | — | [deportes.unlu.edu.ar](https://www.deportes.unlu.edu.ar) |
 | Accesibilidad y discapacidad | Apoyos, adecuaciones y tutorías ([ver página](../accesibilidad/)) | 1547 | [divaccesibilidad.unlu.edu.ar](https://www.divaccesibilidad.unlu.edu.ar) |
 | Escuela Infantil | Jardín maternal | 1547 | [escuelainfantil.unlu.edu.ar](https://www.escuelainfantil.unlu.edu.ar) |
 
