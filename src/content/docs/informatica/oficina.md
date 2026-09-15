@@ -10,7 +10,8 @@ Para escribir documentos, planillas y presentaciones no hace falta pagar. Estas 
 Cómo nos olvidamos de la reina jaja: [Google Docs](https://docs.google.com/) es la suite **online** de Google, **gratis** con tu cuenta de Gmail y, seguramente, la que ya estás usando sin pensarlo. No se instala nada: documentos, planillas y presentaciones andan en el navegador y se guardan solos en Drive.
 
 - **Docs** (documentos), **Sheets** (planillas), **Slides** (presentaciones), **Forms** y **Sites**.
-- Trabajo **en simultáneo** con otras personas y comentarios/sugerencias: ideal para trabajos grupales.
+- Funciona **por sí sola**: no necesita que tengas instalado Office ni nada parecido, y sirve igual como única suite si no querés instalar nada.
+- **Trabajo en simultáneo** con otras personas y comentarios/sugerencias. En realidad es **la única que recomiendo** para trabajo en equipo jaja: las demás se quedan cortas al lado de esto.
 - Historial de versiones automático: nunca más "final_v3_ahora_si.docx".
 - Exporta en **.docx, .xlsx y .pptx**, así que sirve igual para entregar.
 - Ojo con un detalle: es **online**, así que sin internet y sin haber dejado los archivos en modo offline, no los vas a tener. Para eso, las que se instalan.
@@ -55,8 +56,8 @@ Al ser una suscripción, **se renueva sola** con el medio de pago que registres.
 | Precio | Gratis | Gratis | Gratis (con ads) | Suscripción paga (con descuento de estudiante) |
 | Dónde corre | Online | Instalada | Instalada | Instalada + online |
 | Parecido a Office | Alto | Medio | Alto | Es Office |
-| Trabajo en grupo | Excelente (en vivo) | Básico | Básico | Online con cuenta |
+| Trabajo en grupo | **La única recomendada** (en vivo) | Básico | Básico | Online con cuenta |
 | Compatibilidad .docx/.xlsx | Sí | Sí | Sí | Sí |
 | Plataformas | Navegador | Windows/Linux/macOS | Todas | Todas |
 
-Para la facu alcanza con **Google Docs** (sobre todo para lo grupal) o, si preferís algo instalado, **LibreOffice o WPS**. Lo de Microsoft solo si ya estás acostumbrado o necesitás algo puntual que no haya en las otras.
+Para la facu alcanza con **Google Docs**: sirve por sí sola, es cómoda y para trabajo en equipo es **la única que recomiendo**. Si preferís algo instalado, **LibreOffice o WPS**. Lo de Microsoft solo si ya estás acostumbrado o necesitás algo puntual que no haya en las otras.
