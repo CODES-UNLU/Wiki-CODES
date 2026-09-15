@@ -9,14 +9,14 @@ Después de los [editores recomendados](../editores-recomendados/), el siguiente
 
 - [Antigravity 2.0](antigravity/): la app de escritorio de Google para orquestar agentes. **Gratis para estudiantes** con el plan Google AI Plus.
 - [GitHub Copilot app](github-copilot/): la app de escritorio de GitHub para desarrollo con agentes. No recomendamos pagarla: usá lo que regala el GitHub Student Pack.
-- [opencode](opencode/): agente open source de terminal, **gratis en general** con modelos de uso gratuito y acceso a los modelos chinos nuevos.
+- [OpenCode](opencode/): agente open source de terminal, **gratis en general** con modelos de uso gratuito y acceso a los modelos chinos nuevos.
 - [Cursor](cursor/): otro editor de código, con el agente adentro del IDE. No tiene beneficio estudiantil, pero el plan gratuito sirve para probarlo.
 
 ## De pago (solo si vas a gastar plata)
 
 Como regla, por debajo de **USD 20 al mes** no se justifica, con la excepción de **opencode Go**.
 
-- [opencode Go](pagos/#opencode-go-usd-10--preferido): USD 10/mes, **la opción preferida**: el mejor rinde por peso, open source y con modelos chinos.
+- [OpenCode Go](pagos/#opencode-go-usd-10--preferido): USD 10/mes, **la opción preferida**: el mejor rinde por peso, open source y con modelos chinos.
 - [Claude Code](pagos/#claude-code): sin plan gratuito, arranca en Pro (USD 20/mes). El más fuerte para reescribir mucho código.
 - [Cursor Pro](pagos/#cursor-pro): USD 20/mes si querés una buena cantidad de tokens.
 - [ChatGPT Codex](pagos/#chatgpt-codex-y-por-qué-no-pagar-el-go): no pagues el plan **Go**; si vas a gastar, pagá desde Plus.

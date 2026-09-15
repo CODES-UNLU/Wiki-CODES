@@ -1,5 +1,5 @@
 ---
-title: opencode
+title: OpenCode
 description: opencode, agente open source de terminal, gratis en general, con modelos de uso gratuito, pago barato y acceso a los modelos chinos nuevos.
 ---
 
@@ -17,7 +17,7 @@ Si no querés pagar nada:
 Ojo: opencode es **gratis en general**, no por ser estudiante. No tiene beneficio estudiantil ni falta que le hace: el agente es open source y los modelos de uso gratuito los tiene cualquiera. Lo que sí podés conseguir como estudiante es lo de [Antigravity](../antigravity/) y la [GitHub Copilot app](../github-copilot/).
 :::
 
-## opencode Go (USD 10)
+## OpenCode Go (USD 10)
 
 El plan **opencode Go** es buenísimo y lo recomendamos: por **USD 10** te da acceso a bastante IA y a los modelos chinos nuevos.
 

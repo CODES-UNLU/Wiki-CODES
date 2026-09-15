@@ -41,7 +41,20 @@ export default defineConfig({
 				},
 				{
 					label: 'Licenciatura en Sistemas',
-					items: [{ autogenerate: { directory: 'sistemas' } }],
+					items: [
+						'sistemas',
+						{
+							label: 'Agentes',
+							items: [{ autogenerate: { directory: 'sistemas/agentes' } }],
+						},
+						'sistemas/editor',
+						'sistemas/editores-recomendados',
+						'sistemas/lenguajes',
+						{
+							label: 'Planes',
+							items: [{ autogenerate: { directory: 'sistemas/planes' } }],
+						},
+					],
 				},
 				{
 					label: 'Informática',
