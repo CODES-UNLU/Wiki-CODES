@@ -27,10 +27,10 @@ Si querés acceso a los modelos chinos (recomendado), acordate de entrar a la pe
 
 ## Enlace de referido
 
-Si te suscribís a Go usando nuestro enlace de referido, **ambos recibimos un crédito de USD 5** para aplicar a los límites de uso de Go:
+Suscribite a Go con este enlace y **te da USD 5 más de uso** (a nosotros también, de paso) jaja:
 
-**[Suscribirme a opencode Go (enlace de referido)](https://opencode.ai/go?ref=8PQET4369F)**
+**[Suscribirme a opencode Go (te da USD 5 extra)](https://opencode.ai/go?ref=8PQET4369F)**
 
 :::tip
-El enlace nos da un beneficio a nosotros y a vos. Si preferís no usarlo, entrá directo desde [opencode.ai](https://opencode.ai/es): el plan es el mismo.
+Si no querés usar el enlace, igual podés entrar directo desde [opencode.ai](https://opencode.ai/es): el plan es el mismo, solo que ahí no te llevás los USD 5.
 :::
