@@ -1,9 +1,23 @@
 ---
 title: Suites de oficina
-description: LibreOffice y WPS Office, gratis, y Microsoft 365 si querés el Office de siempre por suscripción.
+description: "Google Docs online, más LibreOffice y WPS Office, gratis, y Microsoft 365 si querés el Office de siempre por suscripción."
 ---
 
 Para escribir documentos, planillas y presentaciones no hace falta pagar. Estas son las que recomendamos:
+
+## Google Docs (la suite online)
+
+Cómo nos olvidamos de la reina jaja: [Google Docs](https://docs.google.com/) es la suite **online** de Google, **gratis** con tu cuenta de Gmail y, seguramente, la que ya estás usando sin pensarlo. No se instala nada: documentos, planillas y presentaciones andan en el navegador y se guardan solos en Drive.
+
+- **Docs** (documentos), **Sheets** (planillas), **Slides** (presentaciones), **Forms** y **Sites**.
+- Trabajo **en simultáneo** con otras personas y comentarios/sugerencias: ideal para trabajos grupales.
+- Historial de versiones automático: nunca más "final_v3_ahora_si.docx".
+- Exporta en **.docx, .xlsx y .pptx**, así que sirve igual para entregar.
+- Ojo con un detalle: es **online**, así que sin internet y sin haber dejado los archivos en modo offline, no los vas a tener. Para eso, las que se instalan.
+
+:::tip
+Si activaste el beneficio de [**Google AI Plus para estudiantes**](/unlu/beneficios/gemini-student/), tu Gmail ya viene con **400 GB** de Drive, así que tenés espacio de sobra para todo lo de la facu.
+:::
 
 ## LibreOffice
 
@@ -36,11 +50,13 @@ Al ser una suscripción, **se renueva sola** con el medio de pago que registres.
 
 ## ¿Cuál elegir?
 
-| | LibreOffice | WPS Office | Microsoft 365 |
-| --- | --- | --- | --- |
-| Precio | Gratis | Gratis (con ads) | Suscripción paga |
-| Parecido a Office | Medio | Alto | Es Office |
-| Compatibilidad .docx/.xlsx | Sí | Sí | Sí |
-| Plataformas | Windows/Linux/macOS | Todas | Todas |
+| | Google Docs | LibreOffice | WPS Office | Microsoft 365 |
+| --- | --- | --- | --- | --- |
+| Precio | Gratis | Gratis | Gratis (con ads) | Suscripción paga (con descuento de estudiante) |
+| Dónde corre | Online | Instalada | Instalada | Instalada + online |
+| Parecido a Office | Alto | Medio | Alto | Es Office |
+| Trabajo en grupo | Excelente (en vivo) | Básico | Básico | Online con cuenta |
+| Compatibilidad .docx/.xlsx | Sí | Sí | Sí | Sí |
+| Plataformas | Navegador | Windows/Linux/macOS | Todas | Todas |
 
-Para la facu, **LibreOffice o WPS alcanzan de sobra**. Lo de Microsoft solo si ya estás acostumbrado o necesitás algo puntual que no haya en las otras.
+Para la facu alcanza con **Google Docs** (sobre todo para lo grupal) o, si preferís algo instalado, **LibreOffice o WPS**. Lo de Microsoft solo si ya estás acostumbrado o necesitás algo puntual que no haya en las otras.
