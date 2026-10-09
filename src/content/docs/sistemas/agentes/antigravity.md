@@ -56,4 +56,4 @@ Si todavía no activaste el beneficio, hacelo primero: te pide el certificado de
 
 Con el plan activo entrás a Antigravity con tu **misma cuenta de Gmail** y ya estás cubierto por las cuotas del plan Plus. Sin plan igual se puede usar, pero con cuotas de prueba más limitadas.
 
-**[Ver Google AI Plus gratis para estudiantes](/unlu/beneficios/gemini-student/)**
+**[Ver Google AI Plus gratis para estudiantes](/beneficios/gemini-student/)**

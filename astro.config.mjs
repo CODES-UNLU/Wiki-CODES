@@ -5,8 +5,7 @@ import lucode from 'lucode-starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://CODES-UNLU.github.io',
-	base: '/Wiki-CODES',
+	site: 'https://wiki.codesunlu.com.ar',
 	integrations: [
 		starlight({
 			title: 'Wiki',

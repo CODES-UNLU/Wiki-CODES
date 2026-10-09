@@ -3,7 +3,7 @@ title: De pago
 description: "Agentes de código puramente pagos, solo si vas a gastar plata. opencode Go (USD 10), Claude Code y Cursor Pro. Y por qué no pagar el Go de ChatGPT."
 ---
 
-Acá está lo que **no tiene versión gratuita útil**: si no querés poner plata, quedate con [Antigravity](../antigravity/), [opencode](../opencode/) o lo que regala el [GitHub Student Pack](/unlu/beneficios/github-students/). Como regla, por debajo de **USD 20 al mes** las cuotas no alcanzan para nada serio, con **una sola excepción**: el Go de opencode, que por USD 10 rinde.
+Acá está lo que **no tiene versión gratuita útil**: si no querés poner plata, quedate con [Antigravity](../antigravity/), [opencode](../opencode/) o lo que regala el [GitHub Student Pack](/beneficios/github-students/). Como regla, por debajo de **USD 20 al mes** las cuotas no alcanzan para nada serio, con **una sola excepción**: el Go de opencode, que por USD 10 rinde.
 
 Si vas a gastar, esto es lo que recomendamos:
 

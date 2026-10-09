@@ -17,7 +17,7 @@ Cómo nos olvidamos de la reina jaja: [Google Docs](https://docs.google.com/) es
 - Ojo con un detalle: es **online**, así que sin internet y sin haber dejado los archivos en modo offline, no los vas a tener. Para eso, las que se instalan.
 
 :::tip
-Si activaste el beneficio de [**Google AI Plus para estudiantes**](/unlu/beneficios/gemini-student/), tu Gmail ya viene con **400 GB** de Drive, así que tenés espacio de sobra para todo lo de la facu.
+Si activaste el beneficio de [**Google AI Plus para estudiantes**](/beneficios/gemini-student/), tu Gmail ya viene con **400 GB** de Drive, así que tenés espacio de sobra para todo lo de la facu.
 :::
 
 ## LibreOffice
@@ -42,7 +42,7 @@ Si activaste el beneficio de [**Google AI Plus para estudiantes**](/unlu/benefic
 Si de verdad querés el Office de Microsoft, hay una [página con **descuento para estudiantes**](https://www.microsoft.com/es-ar/microsoft-365/college-student-pricing): es el precio especial de Microsoft 365 para quienes acreditan ser estudiantes, más barato que el plan común. Igual es **pago** y funciona **por suscripción** (mensual o anual): Word, Excel, PowerPoint y Outlook completos, 1 TB de OneDrive y actualizaciones mientras la pagues.
 
 :::note
-Para pagar el precio de estudiante hay que **verificar la condición de estudiante** (correo educativo o documentación). Si el trámite no sale con la UNLu, a veces piden el **certificado de alumno regular**, el mismo que usás para el [GitHub Student Pack](/unlu/beneficios/github-students/) y el [Google AI Plus](/unlu/beneficios/gemini-student/).
+Para pagar el precio de estudiante hay que **verificar la condición de estudiante** (correo educativo o documentación). Si el trámite no sale con la UNLu, a veces piden el **certificado de alumno regular**, el mismo que usás para el [GitHub Student Pack](/beneficios/github-students/) y el [Google AI Plus](/beneficios/gemini-student/).
 :::
 
 :::caution

@@ -75,7 +75,7 @@ Requisitos: [Node.js](https://nodejs.org) 20+ y [pnpm](https://pnpm.io).
 
 ```bash
 pnpm install   # Instalar dependencias
-pnpm dev       # Servidor local en http://localhost:4321/Wiki-Codes/
+pnpm dev       # Servidor local en http://localhost:4321/
 pnpm build     # Generar el sitio en ./dist
 pnpm preview   # Previsualizar el build
 ```

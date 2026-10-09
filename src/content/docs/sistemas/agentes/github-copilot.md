@@ -19,9 +19,9 @@ Está muy buena y es la competencia directa de [Cursor](../cursor/) y de los age
 ## ¿Pagar? No, gracias
 
 :::caution
-No recomendamos pagarla. GitHub ya nos **regala GitHub Copilot Pro** con el [GitHub Student Developer Pack](/unlu/beneficios/github-students/), y con eso alcanza para usar la app. Eso sí: **Copilot nos da cuota limitada** (pocos usos por mes y, en el chat, solo el modelo **Auto**), así que sirve para arrancar y para tareas puntuales, no para tener agentes corriendo todo el día.
+No recomendamos pagarla. GitHub ya nos **regala GitHub Copilot Pro** con el [GitHub Student Developer Pack](/beneficios/github-students/), y con eso alcanza para usar la app. Eso sí: **Copilot nos da cuota limitada** (pocos usos por mes y, en el chat, solo el modelo **Auto**), así que sirve para arrancar y para tareas puntuales, no para tener agentes corriendo todo el día.
 :::
 
 El pack de estudiante se pide una sola vez con el **certificado de alumno regular** de la UNLu y la verificación es manual. Si todavía no lo activaste, esa es la puerta de entrada.
 
-**[Ver GitHub Student Developer Pack](/unlu/beneficios/github-students/)**
+**[Ver GitHub Student Developer Pack](/beneficios/github-students/)**
