@@ -8,6 +8,7 @@ Un espacio para compartir cosas interesantes de informática y sistemas.
 ## Herramientas
 
 - [Suites de oficina](oficina/): [Google Docs](https://docs.google.com/), [LibreOffice](https://es.libreoffice.org/) y [WPS Office](https://es.wps.com/) gratis, y [Microsoft 365 con descuento para estudiantes](https://www.microsoft.com/es-ar/microsoft-365/college-student-pricing) si querés Office por suscripción.
+- [Photomath](https://play.google.com/store/search?q=photomath&c=apps) (Android): app para entender procedimientos matemáticos paso a paso. La versión gratuita ya muestra la resolución de los ejercicios; la suscripción premium es opcional.
 - Editores, terminales y entornos de desarrollo.
 - Control de versiones con Git y GitHub.
 - Utilidades para el día a día.
