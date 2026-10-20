@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./src/assets/logo-dark.png" />
-    <img src="./src/assets/logo-light.png" alt="CODES++" width="380" />
+    <source media="(prefers-color-scheme: dark)" srcset="./src/assets/logo-oscuro.svg" />
+    <img src="./src/assets/logo-claro.svg" alt="CODES" width="220" />
   </picture>
 </p>
 
@@ -23,7 +23,7 @@
 Reúne en un solo lugar, y en español, todo lo que necesitás para estudiar, organizarte y aprovechar
 la facultad: desde material de las materias hasta beneficios que podés solicitar.
 
-Nace del **Centro Organizado de Estudiantes de Sistemas (CODES++)** con una idea simple: que la
+Nace del **Centro Organizado de Estudiantes de Sistemas (CODES)** con una idea simple: que la
 información deje de estar dispersa y que la construyamos entre todos.
 
 > 💚 **Con amor, para entender la UNLu más fácil.**
@@ -110,7 +110,7 @@ para todas las personas.
 
 ## 📄 Licencia
 
-Este proyecto es de **CODES++** y se distribuye bajo la licencia [MIT](LICENSE).
+Este proyecto es de **CODES** y se distribuye bajo la licencia [MIT](LICENSE).
 
 ---
 

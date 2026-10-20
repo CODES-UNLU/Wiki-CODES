@@ -8,7 +8,7 @@ export default defineConfig({
 	site: 'https://wiki.codesunlu.com.ar',
 	integrations: [
 		starlight({
-			title: 'Wiki',
+			title: 'Wiki CODES',
 			defaultLocale: 'root',
 			locales: {
 				root: { label: 'Español', lang: 'es' },
@@ -16,12 +16,16 @@ export default defineConfig({
 			description:
 				'Recursos para estudiantes de la UNLu, material específico para la Licenciatura en Sistemas y cosas interesantes de informática.',
 			logo: {
-				light: './src/assets/logo-nav-light.png',
-				dark: './src/assets/logo-nav-dark.png',
-				alt: 'CODES++',
+				light: './src/assets/logo-claro.svg',
+				dark: './src/assets/logo-oscuro.svg',
+				alt: 'CODES',
 				replacesTitle: false,
 			},
-			favicon: '/favicon.png',
+			favicon: '/favicon.svg',
+			head: [
+				{ tag: 'link', attrs: { rel: 'apple-touch-icon', href: '/apple-touch-icon.png' } },
+				{ tag: 'meta', attrs: { name: 'theme-color', content: '#39c0c3' } },
+			],
 			customCss: ['./src/styles/custom.css'],
 			social: [
 				{ icon: 'github', label: 'GitHub', href: 'https://github.com/CODES-UNLU' },
@@ -30,7 +34,7 @@ export default defineConfig({
 			],
 			plugins: [
 				lucode({
-					footerText: `© ${new Date().getFullYear()} CODES++. Todos los derechos reservados.<br>Hecho con ❤️ por estudiantes para estudiantes`,
+					footerText: `© ${new Date().getFullYear()} CODES. Todos los derechos reservados.<br>Hecho con ❤️ por estudiantes para estudiantes`,
 				}),
 			],
 			sidebar: [

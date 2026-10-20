@@ -56,7 +56,7 @@ export const GET: APIRoute = () => {
 	const lineas: string[] = [
 		'BEGIN:VCALENDAR',
 		'VERSION:2.0',
-		'PRODID:-//CODES++//Wiki CODES - Calendario Academico UNLu//ES',
+		'PRODID:-//CODES//Wiki CODES - Calendario Academico UNLu//ES',
 		'CALSCALE:GREGORIAN',
 		'METHOD:PUBLISH',
 		`X-WR-CALNAME:${escapar(calendarioUnlu.titulo)}`,

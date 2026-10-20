@@ -1,8 +1,8 @@
-/* Navbar: Lucode limita el logo a 32x32px y lo deforma. Lo dejamos a 2rem de alto
-   respetando su proporción, para que el CODES++ se vea nítido. */
+/* Navbar: Lucode limita el logo a 32x32px y lo deforma. Lo dejamos a 2.25rem de alto
+   respetando su proporción, para que el logo de CODES se vea nítido. */
 .site-title .logo {
 	max-width: none;
-	max-height: 2rem;
+	max-height: 2.25rem;
 	width: auto;
 	height: auto;
 }
@@ -14,6 +14,7 @@
 .site-title .title-text {
 	font-size: 1.125rem;
 	letter-spacing: 0.02em;
+	white-space: nowrap;
 }
 
 @media (min-width: 1024px) {
@@ -29,7 +30,7 @@ html[data-has-hero] .hero {
 }
 
 html[data-has-hero] .hero-image {
-	max-width: min(20rem, 78vw);
+	max-width: min(13rem, 60vw);
 	margin-inline: auto;
 }
 
@@ -79,29 +80,48 @@ html[data-has-hero] .hero-content-container .actions {
 	}
 }
 
-/* Colores de marca CODES++ (teal #39c0c3) sobre el tema Lucode. */
+/* Paleta oficial de CODES: escala teal (OKLCH h ≈ 197,6°) del repositorio Identidad-CODES.
+   300, 400 y 600 son --primary-light, --primary y --primary-dark de codesunlu.tech. */
 :root {
-	--primary: #39c0c3;
-	--primary-foreground: #06282a;
-	--ring: #39c0c3;
+	--codes-teal-50: #e7fafa;
+	--codes-teal-100: #c8f3f4;
+	--codes-teal-200: #95e7e8;
+	--codes-teal-300: #5dd5d8;
+	--codes-teal-400: #39c0c3;
+	--codes-teal-500: #30a5a8;
+	--codes-teal-600: #2a8a8d;
+	--codes-teal-700: #1d6d6f;
+	--codes-teal-800: #125355;
+	--codes-teal-900: #083b3c;
+	--codes-teal-950: #022324;
+
+	--primary: var(--codes-teal-400);
+	--primary-foreground: var(--codes-teal-950);
+	--ring: var(--codes-teal-400);
 }
 
+/* Modo oscuro: superficies neutras del sitio del centro (#0f0f0f, #1a1a1a, #2d2d2d, #404040). */
 :root[data-theme='dark'] {
-	--accent: color-mix(in oklab, #39c0c3 22%, transparent);
-	--accent-foreground: #93e9eb;
-	--sl-color-text-accent: #6fdcdf;
-	--sl-color-accent: #39c0c3;
-	--sl-color-accent-low: color-mix(in oklab, #39c0c3 22%, transparent);
-	--sl-color-accent-high: #93e9eb;
+	--background: #0f0f0f;
+	--gray-7: #1a1a1a;
+	--gray-6: #2d2d2d;
+	--gray-5: #404040;
+
+	--accent: color-mix(in oklab, var(--codes-teal-400) 22%, transparent);
+	--accent-foreground: var(--codes-teal-200);
+	--sl-color-text-accent: var(--codes-teal-300);
+	--sl-color-accent: var(--codes-teal-400);
+	--sl-color-accent-low: color-mix(in oklab, var(--codes-teal-400) 22%, transparent);
+	--sl-color-accent-high: var(--codes-teal-200);
 }
 
 :root[data-theme='light'] {
-	--accent: color-mix(in oklab, #39c0c3 16%, transparent);
-	--accent-foreground: #1e6b6e;
-	--sl-color-text-accent: #1e6b6e;
-	--sl-color-accent: #2a8a8d;
-	--sl-color-accent-low: color-mix(in oklab, #39c0c3 16%, transparent);
-	--sl-color-accent-high: #1e6b6e;
+	--accent: color-mix(in oklab, var(--codes-teal-400) 16%, transparent);
+	--accent-foreground: var(--codes-teal-700);
+	--sl-color-text-accent: var(--codes-teal-700);
+	--sl-color-accent: var(--codes-teal-600);
+	--sl-color-accent-low: color-mix(in oklab, var(--codes-teal-400) 16%, transparent);
+	--sl-color-accent-high: var(--codes-teal-700);
 }
 
 /* Enlaces del contenido con el color de la marca. */
